@@ -2,6 +2,8 @@
 
 Esta es una pequeña aplicación web desarrollada en React JS y implementando la API de covid19.mathdrio.id
 
+<img src="screencapture-localhost-3000-2020-07-30-11_31_23.png">
+
 ## Datos para poder reutilizar el codigo
 
 Este respositorio esta abierto a que aportes y lo puedas utilizar en tus proyectos o lo implementes a tu web. 
