@@ -1,25 +1,18 @@
 # COVID-19 Tracker
 
-# Realtime Chat Application
+Esta es una pequeña aplicación web desarrollada en React JS y implementando la API de covid19.mathdrio.id
 
-COVID-19 Tracker is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
+## Datos para poder reutilizar el codigo
 
-<a href="https://tracking.gitads.io/?repo=project_corona_tracker">
- <img src="https://images.gitads.io/project_corona_tracker" alt="GitAds"/> 
-</a>
+Este respositorio esta abierto a que aportes y lo puedas utilizar en tus proyectos o lo implementes a tu web. 
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+Para poder utilizar este proyecto necesitaras conocimientos de React, manejar la libreria Charts.JS y Material UI.
 
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+Acá te compartire como cargar el proyecto y correrlo en tu servidor local.
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+API uilizada: https://covid19.mathdro.id/api
 
-In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
+Configurafión:
+```npm i && npm start```
 
-By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
-
-API used: https://covid19.mathdro.id/api
-
-Setup:
-- run ```npm i && npm start```
+Mi Website: https://daniel-valdez.com
